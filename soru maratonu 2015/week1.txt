@@ -1,0 +1,5 @@
+İki rakamlı iki farklı sayı tutuyor ve toplamlarını alıyorsunuz. Aynı işlemi arkadaşınız da yapıyor. Sizin ve arkadaşınızın aynı toplamı elde etme olasılığınız kaçtır? 
+
+Problem tek rakamlı iki sayı için sorulsaydı cevap 29/405 olacaktı 
+
+Cevabınızı kesir olarak ve sadeleştirerek giriniz.
